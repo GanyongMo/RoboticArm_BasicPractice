@@ -44,4 +44,6 @@
     qq=scara.ikine(Tc, 'q0',[0 0 0 0], 'mask',[1 1 1 1 0 0]);
 
     % show the trajectory
-    scara.plot(q);
+    scara.plot(qq);
+    % or this command
+    %scara.plot(q);
