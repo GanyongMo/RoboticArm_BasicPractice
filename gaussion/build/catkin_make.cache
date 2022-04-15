@@ -1,0 +1,2 @@
+gauss_description:gauss_moveit
+-DCATKIN_DEVEL_PREFIX=/home/momo/gaussion/devel -DCMAKE_INSTALL_PREFIX=/home/momo/gaussion/install -G Unix Makefiles

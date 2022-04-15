@@ -1,0 +1,8 @@
+prefix=/home/momo/gaussion/install
+
+Name: gauss_moveit
+Description: Description of gauss_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

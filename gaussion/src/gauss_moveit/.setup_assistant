@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: gauss_description
+    relative_path: urdf/gauss.urdf.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/gauss.srdf
+  CONFIG:
+    author_name: gauss_robot
+    author_email: moganyong@gmail.com
+    generated_timestamp: 1649634625
