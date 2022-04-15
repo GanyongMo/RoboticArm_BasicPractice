@@ -1,0 +1,8 @@
+prefix=/home/momo/robot/install
+
+Name: scara_robot
+Description: Description of scara_robot
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+moveit:scara_robot
+-DCATKIN_DEVEL_PREFIX=/home/momo/robot/devel -DCMAKE_INSTALL_PREFIX=/home/momo/robot/install -G Unix Makefiles
