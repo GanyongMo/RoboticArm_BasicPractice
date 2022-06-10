@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: scara
     author_email: moganyong@gmail.com
-    generated_timestamp: 1648493243
+    generated_timestamp: 1654885665
