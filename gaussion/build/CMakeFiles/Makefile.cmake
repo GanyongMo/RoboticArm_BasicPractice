@@ -13,11 +13,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin/catkin_generated/version/package.cmake"
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
-  "gauss_description/catkin_generated/package.cmake"
+  "gauss/catkin_generated/package.cmake"
   "gauss_moveit/catkin_generated/package.cmake"
   "/home/momo/gaussion/src/CMakeLists.txt"
-  "/home/momo/gaussion/src/gauss_description/CMakeLists.txt"
-  "/home/momo/gaussion/src/gauss_description/package.xml"
+  "/home/momo/gaussion/src/gauss/CMakeLists.txt"
+  "/home/momo/gaussion/src/gauss/package.xml"
   "/home/momo/gaussion/src/gauss_moveit/CMakeLists.txt"
   "/home/momo/gaussion/src/gauss_moveit/package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/../package.xml"
@@ -145,7 +145,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "gauss_description/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "gauss/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gauss_moveit/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -160,5 +160,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "gtest/CMakeFiles/gmock_main.dir/DependInfo.cmake"
   "gtest/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
   "gtest/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "gauss_description/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake"
+  "gauss/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake"
   )

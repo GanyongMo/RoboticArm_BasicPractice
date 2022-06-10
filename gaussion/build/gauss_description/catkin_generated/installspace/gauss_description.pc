@@ -1,8 +1,0 @@
-prefix=/home/momo/gaussion/install
-
-Name: gauss_description
-Description: Description of gauss_description
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

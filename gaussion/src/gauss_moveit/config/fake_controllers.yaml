@@ -1,9 +1,14 @@
 controller_list:
-  - name: fake_hand_controller
-    joints:
-      - joint6
   - name: fake_gauss_1_controller
     joints:
       - joint1
       - joint2
+  - name: fake_gauss_2_controller
+    joints:
       - joint3
+  - name: fake_gauss_3_controller
+    joints:
+      - joint4
+  - name: fake_hand_controller
+    joints:
+      - joint6

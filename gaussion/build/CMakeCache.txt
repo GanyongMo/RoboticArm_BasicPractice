@@ -293,10 +293,16 @@ dynamixel_workbench_toolbox_LIB_DEPENDS:STATIC=general;/opt/ros/kinetic/lib/libd
 dynamixel_workbench_toolbox_SOURCE_DIR:STATIC=/home/momo/gaussion/src/dynamixel-workbench/dynamixel_workbench_toolbox
 
 //Value Computed by CMake
-gauss_description_BINARY_DIR:STATIC=/home/momo/gaussion/build/gauss_description
+gauss_BINARY_DIR:STATIC=/home/momo/gaussion/build/gauss
 
 //Value Computed by CMake
-gauss_description_SOURCE_DIR:STATIC=/home/momo/gaussion/src/gauss_description
+gauss_SOURCE_DIR:STATIC=/home/momo/gaussion/src/gauss
+
+//Value Computed by CMake
+gauss_description_BINARY_DIR:STATIC=/home/momo/gaussion/build/gauss
+
+//Value Computed by CMake
+gauss_description_SOURCE_DIR:STATIC=/home/momo/gaussion/src/gauss
 
 //Value Computed by CMake
 gauss_moveit_BINARY_DIR:STATIC=/home/momo/gaussion/build/gauss_moveit

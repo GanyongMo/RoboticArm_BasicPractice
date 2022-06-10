@@ -5,8 +5,8 @@
   <description>
      An automatically generated package with all the configuration and launch files for using the gauss with the MoveIt! Motion Planning Framework
   </description>
-  <author email="moganyong@gmail.com">gauss_robot</author>
-  <maintainer email="moganyong@gmail.com">gauss_robot</maintainer>
+  <author email="moganyong@gmail.com">gauss</author>
+  <maintainer email="moganyong@gmail.com">gauss</maintainer>
 
   <license>BSD</license>
 
@@ -27,8 +27,8 @@
   <run_depend>xacro</run_depend>
   <!-- This package is referenced in the warehouse launch files, but does not build out of the box at the moment. Commented the dependency until this works. -->
   <!-- <run_depend>warehouse_ros_mongo</run_depend> -->
-  <build_depend>gauss_description</build_depend>
-  <run_depend>gauss_description</run_depend>
+  <build_depend>gauss</build_depend>
+  <run_depend>gauss</run_depend>
 
 
 </package>
