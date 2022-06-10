@@ -27,6 +27,10 @@ Related Commands (for example SCARA robot)
     
         roslaunch moveit_setup_assistant setup_assistant.launch
 	
+    launch to the demo.launch
+	
+	roslaunch moveit demo.launch
+	
         
         
     
