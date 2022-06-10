@@ -9,11 +9,11 @@ Related Commands (for example SCARA robot)
 
     check urdf
 
-	    check_urdf scara_robot.urdf
+	check_urdf scara_robot.urdf
 
     transform to the pdf and gv
 
-	    urdf_to_graphiz scara_robot.urdf
+	urdf_to_graphiz scara_robot.urdf
         
     launch to Rviz
     
@@ -29,7 +29,7 @@ Related Commands (for example SCARA robot)
 	
     launch to the demo.launch
 	
-		roslaunch moveit demo.launch
+	roslaunch moveit demo.launch
 	
         
         
